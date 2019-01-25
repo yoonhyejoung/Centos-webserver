@@ -4,7 +4,7 @@ Apache - v.2.4.6
 PHP -v 5.4.16 or -v 7.2
 mariadb version 5.5.60
 
-###### repository 설정
+###### repository 설정(설정 안해도 됨 아파치 7.2버전 설치을 원하면..)
 
 ```
 # wget https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
